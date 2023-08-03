@@ -1,0 +1,5 @@
+.env
+src/certificates
+dist
+public
+node_modules
